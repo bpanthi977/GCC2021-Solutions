@@ -10,8 +10,6 @@ We have been given an array of distinct positive integers called as
 **prices**. Each integer in the array denoted by **prices[i]**
 represents the **high price** in the candlestick.
 
-![image info](./candlestick.png)
-
 You have to connect two candlesticks in such a way that 
 all the candlesticks between them have a height **smaller**
 than the minimum height of the two.
