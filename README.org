@@ -1,0 +1,12 @@
+* Global Coding Challenge 2021
+
+[[https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/][Organized by Credit Suisse]]
+
+This repo contains all the problems of the competition and solutions to them submitted by bpanthi977. 
+
+Note that some of the `main` function of the solutions don't take input from stdin. i.e. I didn't clean them up, and left them as used while debugging. 
+
+* Acknowledgment
++ Markdown files of the problems were taken from [[https://github.com/CeereeC/Credit-Suisse-GCC2021][CeereeC]]'s repo. 
+
+  
